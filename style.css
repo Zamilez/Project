@@ -32,6 +32,7 @@
 .lichu img{
 height: 650px;
 width: 500px;
+overflow: hidden;
 }
 
   .sun {
